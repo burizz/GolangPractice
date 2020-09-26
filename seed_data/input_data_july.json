@@ -1,0 +1,44 @@
+[
+  {
+      "MemberID": "1",
+      "Firstname": "Boris",
+      "Lastname": "Yakimov",
+      "Hours": 108,
+      "Month": "August"
+  },
+  {
+      "MemberID": "2",
+      "Firstname": "Vname2",
+      "Lastname": "name2",
+      "Hours": 157,
+      "Month": "August"
+  },
+  {
+      "MemberID": "3",
+      "Firstname": "Kname3",
+      "Lastname": "name3",
+      "Hours": 111,
+      "Month": "August"
+  },
+  {
+      "MemberID": "4",
+      "Firstname": "Yname4",
+      "Lastname": "name4",
+      "Hours": 116,
+      "Month": "August"
+  },
+  {
+      "MemberID": "5",
+      "Firstname": "Kaname5",
+      "Lastname": "name5",
+      "Hours": 162,
+      "Month": "August"
+  },
+  {
+      "MemberID": "6",
+      "Firstname": "Krname6",
+      "Lastname": "name6",
+      "Hours": 0,
+      "Month": "August"
+  }
+]
