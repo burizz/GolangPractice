@@ -1,4 +1,4 @@
-package main
+package parseusers
 
 import (
 	"encoding/csv"
@@ -19,7 +19,7 @@ type User struct {
 	Shell string `json:"shell"`
 }
 
-func main() {
+func start() {
 	path, format := parseFlags()
 	users := collectUsers()
 
